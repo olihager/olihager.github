@@ -10,13 +10,14 @@ h1, h2 {
 }
 
 h1{
-    position: fixed;
+    
     font-family: 'Ibarra Real Nova', serif;
     background-color: rgb(171, 205, 205) ;
     margin: 0px;
     word-spacing: 10px;
     letter-spacing: 5px;
     text-transform: uppercase;
+    position: fixed;
 }
 
 h2 { 
